@@ -12,6 +12,7 @@
 
 web/node_modules
 server/node_modules
+server/dist
 # testing
 web/coverage
 
